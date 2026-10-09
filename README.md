@@ -6,7 +6,7 @@ CS student at **FAST NUCES, Lahore**
 👩‍🏫 I enjoy **teaching others**, and I'm a Section Leader at Code in Place x by Stanford
 
 ## 📂 Featured projects
-- **[Inventory & Sales Tax System]()** (C++): a small inventory and sales system where you can add, delete, and view products, along with previous sales.
+- **[Inventory & Sales Tax System](https://github.com/laraibfatimamughal07/Inventory-and-Sales-Tracker-PF.git)** (C++): a small inventory and sales system where you can add, delete, and view products, along with previous sales.
 - **[File Management System](https://github.com/laraibfatimamughal07/File-Management-System-OOP-.git)** (C++): a customized file manager for your PC.
 - **[Desi Delight](https://github.com/laraibfatimamughal07/Desi-DeLights-ICT.git)** (HTML/CSS): a frontend website for a food brand, "Desi Delights", built for registering orders.
 
